@@ -1,0 +1,8 @@
+# Backup and bytecode files
+*.pyc
+*~
+
+# virtualenv folders
+bin
+lib
+include
