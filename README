@@ -1,0 +1,6 @@
+meld-ng
+-------
+
+meld-ng is an attempt to rewrite the graphical diff tool in gnome called meld
+using gtk3 and the pyGObject instead of pygtk.
+
